@@ -46,7 +46,7 @@ https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2026 - To: 14 July 2026
+From: 15 June 2026 - To: 15 July 2026
 
 Total Time: 0 secs
 
